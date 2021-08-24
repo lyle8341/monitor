@@ -13,5 +13,15 @@ docker run -d -p 3000:3000 grafana/grafana
 ```
 
 + Add data source 
-  + url使用ip，localhost访问不通
+  + url使用ip，localhost，127.0.0.1访问不通
+
+
+
+
+
+参考地址：
+
+[使用 Prometheus 和 Grafana 监控 Spring Boot 应用](https://www.codenong.com/cs106159086/)
+
+[Actuator + Prometheus + Grafana搭建微服务监控平台](https://cloud.tencent.com/developer/article/1702326)
 
